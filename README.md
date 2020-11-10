@@ -1,2 +1,2 @@
-# belajar-github
-Saya belajar github
+# IF1311-10219002
+Belajar github
